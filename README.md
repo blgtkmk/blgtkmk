@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
---># 💫 About Me:
+-->💫 About Me:
 Greetings, I am a 4th year Computer Engineering student, and I am also a consultant to a company on ISO IEC software and quality standards. I will graduate in August 2023. I am open and willing to learn. Although I have worked on Standardization until now, I want to improve myself on data science, which is my field of interest and I want to become professional, and I started to take new steps for this.
 
 
